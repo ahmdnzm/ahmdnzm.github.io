@@ -8,8 +8,6 @@ math: true
 mermaid: true
 image:
   path: https://jekyllrb.com/img/jekyll-og.png
-  #path: https://chirpy-img.netlify.app/commons/devices-mockup.png
-  #lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 # Create Static Website using Jekyll Chirpy Github Pages
@@ -138,6 +136,34 @@ For details how to write a post in Chirpy template, can refer Chirpy [Writing a 
 
 List of [Markdown](/posts/hello-markdown) syntax
 
+After complete creating a post. Next, we need to commit and push the files to Github repository.
 
+git status to check current updated, untracked files
+```shell
+[~]$ git status
+```
+Run git add to change the files to staging area
+```shell
+[~]$ git add .
+```
+Run git status again to check all files have been included
 
+Run git commit
+```shell
+[~]$ git commit -m"first commit"
+```
+
+Run git push to upload local repository content to Github
+```shell
+[~]$ git push
+```
+
+Then, open Github repository and click `Actions`. Here can see all workflows running in this repo.
+```url
+https://github.com/ahmdnzm/ahmdnzm.github.io
+```
+![workflows](/assets/img/23-05-04-workflows.png)
+_workflows_
+
+After confirm, all actions completed, can open the url in browser
 
