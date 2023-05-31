@@ -3,6 +3,8 @@ title: Hello Markdown
 date: 2023-05-01 12:00:00 +0800
 categories: [Website, Markdown]
 tags: [website, markdown]     # TAG names should always be lowercase
+math: true
+mermaid: true
 image:
   path: /assets/img/markdown.jpg
 ---
