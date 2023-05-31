@@ -3,7 +3,6 @@ title: Create Static Website using Jekyll Chirpy Github Pages
 date: 2023-05-05 12:00:00
 categories: [ website]
 tags: [github, website, jekyll, git]
-pin: true
 math: true
 mermaid: true
 image:
