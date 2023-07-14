@@ -10,13 +10,17 @@ image:
 
 error shown when login from terminal
 
-```
+```shell
 -bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
 ```
+Install locales packages 
 
+```shell
+sudo apt install locales
+```
 check installed locales.
 
-```
+```shell
 locale -a
 ```
 
