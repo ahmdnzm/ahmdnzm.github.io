@@ -13,7 +13,7 @@ error shown when login from terminal
 ```shell
 -bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
 ```
-Install locales packages 
+Install locales package
 
 ```shell
 sudo apt install locales
@@ -26,7 +26,7 @@ locale -a
 
 From here, we know en_US.UTF8 not installed
 
-```
+```shell
 C
 C.utf8
 POSIX
@@ -34,7 +34,7 @@ POSIX
 
 To install the missing locales, we can generate locale using this command
 
-```
+```shell
 sudo dpkg-reconfigure locales
 ```
 
