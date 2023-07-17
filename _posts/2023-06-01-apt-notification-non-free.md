@@ -2,7 +2,7 @@
 title: apt-key non-free split notification
 date: 2023-06-01 12:00:00 +0800
 categories: [Linux]
-tags: [linux, bash, apt]     # TAG names should always be lowercase
+tags: [linux, debian, bash, apt]     # TAG names should always be lowercase
 image:
   path: /assets/img/cli.jpg
 ---
