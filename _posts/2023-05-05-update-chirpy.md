@@ -3,8 +3,6 @@ title: Update Chirpy theme
 date: 2023-05-05 12:00:00 +0800
 categories: [Cloud, AWS]
 tags: [cloud, aws, s3, devops]     # TAG names should always be lowercase
-image:
-  path: https://chirpy-img.netlify.app/commons/devices-mockup.png
 ---
 # Update Chirpy theme
 

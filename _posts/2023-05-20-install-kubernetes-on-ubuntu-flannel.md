@@ -3,8 +3,6 @@ title: Install Kubernetes on Ubuntu Jammy 22.04 using Flannel
 date: 2023-05-20 12:00:00 +0800
 categories: [Devops]
 tags: [git, cloud, devops, kubernetes, ubuntu, flannel, linux]     # TAG names should always be lowercase
-image:
-  path: /assets/img/kubernetes-logo.png
 ---
 # Install Kubernetes on Ubuntu Jammy 22.04 using Flannel
 

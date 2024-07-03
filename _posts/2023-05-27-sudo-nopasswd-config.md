@@ -3,8 +3,6 @@ title: sudo still asking password although set NOPASSWD in visudo
 date: 2023-05-24 12:00:00 +0800
 categories: [Linux]
 tags: [linux, bash, sudo]     # TAG names should always be lowercase
-image:
-  path: /assets/img/cli.jpg
 ---
 # sudo still asking password although set NOPASSWD in visudo
 

@@ -36,7 +36,7 @@ Follow the on-screen prompts to complete the upgrade. The system will automatica
 
 ## Final Steps
 
-Once the upgrade is complete, it's a good idea to restart your system to ensure all changes take effect:
+Once the upgrade is complete, it's a good idea to restart the system to ensure all changes take effect:
 
 ```bash
 sudo reboot

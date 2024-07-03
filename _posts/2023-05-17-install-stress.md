@@ -3,8 +3,6 @@ title: Install stress on Amazon Linux 2023
 date: 2023-05-17 12:00:00 +0800
 categories: [Cloud, AWS]
 tags: [cloud, aws, ec2, asg, devops]     # TAG names should always be lowercase
-image:
-  path: /assets/img/cli.jpg
 ---
 
 # Install stress utility in Amazon Linux 2023

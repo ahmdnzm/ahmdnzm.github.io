@@ -3,8 +3,6 @@ title: Error bash locales
 date: 2023-05-24 12:00:00 +0800
 categories: [Linux]
 tags: [linux, ubuntu, bash, locales]     # TAG names should always be lowercase
-image:
-  path: /assets/img/cli.jpg
 ---
 # Error bash locales
 
